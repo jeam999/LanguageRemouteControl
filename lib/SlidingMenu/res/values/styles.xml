@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Material.Light.NoActionBar.Light.Dialog.NoActionBar" parent="@android:style/Theme.Holo.Light.Dialog.NoActionBar" />
+</resources>

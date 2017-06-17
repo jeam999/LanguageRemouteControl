@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="Theme" parent="@android:style/Theme.Holo.Light.NoActionBar">
+        <item name="android:typeface">monospace</item>
+
+    </style>
+
+</resources>

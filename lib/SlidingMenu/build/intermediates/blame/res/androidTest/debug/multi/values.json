@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "E:\\Android\\Projects\\LanguageRemouteControl\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 42,
+                    "endOffset": 999
+                },
+                "from": {
+                    "file": "E:\\Android\\Projects\\LanguageRemouteControl\\lib\\SlidingMenu\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 961,
+                        "endColumn": 42,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 1004,
+                    "endColumn": 137,
+                    "endOffset": 1137
+                },
+                "from": {
+                    "file": "E:\\Android\\Projects\\LanguageRemouteControl\\lib\\SlidingMenu\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 1004,
+                        "endColumn": 137,
+                        "endOffset": 1137
+                    }
+                }
+            }
+        ]
+    }
+]
